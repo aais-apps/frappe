@@ -100,6 +100,12 @@ def get_home_page():
 		return frappe.local.flags.home_page
 
 	def _get_home_page():
+		# Administrator inherits portal roles too. Desk users must not inherit
+		# a student or guardian landing page through those role assignments.
+		if frappe.session.user != "Guest" and frappe.get_cached_value(
+			"User", frappe.session.user, "user_type"
+		) == "System User":
+			return "desk"
 		home_page = None
 		# for user
 		if frappe.session.user != "Guest":
