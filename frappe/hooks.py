@@ -3,11 +3,11 @@ import os
 from . import __version__ as app_version
 
 app_name = "frappe"
-app_title = "Frappe Framework"
+app_title = "Organization Settings"
 app_publisher = "Frappe Technologies"
 app_description = "Full stack web framework with Python, Javascript, MariaDB, Redis, Node"
 app_license = "MIT"
-app_logo_url = "/assets/frappe/images/frappe-framework-logo.svg"
+app_logo_url = "/assets/frappe/images/org-settings-logo.svg"
 develop_version = "15.x.x-develop"
 app_home = "/desk/build"
 
@@ -581,7 +581,7 @@ add_to_apps_screen = [
 	{
 		"name": app_name,
 		"logo": app_logo_url,
-		"title": "Framework",
+		"title": "Organization Settings",
 		"route": app_home,
 		"has_permission": "frappe.permissions.check_app_permission",
 		# Sort order on the apps (desktop) screen; lower shows first. Framework is pinned last.

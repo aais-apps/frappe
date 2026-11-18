@@ -56,7 +56,7 @@ from .utils.jinja import (
 )
 
 __version__ = "16.56.0"
-__title__ = "Frappe Framework"
+__title__ = "Organization Settings"
 
 if TYPE_CHECKING:  # pragma: no cover
 	from logging import Logger
