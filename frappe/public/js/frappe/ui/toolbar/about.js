@@ -12,24 +12,10 @@ frappe.ui.misc.about = function () {
 		`<div class="about-body flex flex-col gap-5 items-start">
 			<div class="about-frappe-section flex flex-col items-center gap-3 py-3 w-full">
 				<div class="about-frappe-header flex flex-col justify-center items-center gap-1.5">
-					<img src="/assets/frappe/images/frappe-comp-logo.svg" alt="Frappe" class="about-frappe-wordmark">
+					<img src="/assets/erpnext/images/office-management-logo.svg" alt="Office Management" class="about-frappe-wordmark" style="max-height: 48px;">
 					<p class="about-tagline text-p-sm text-ink-gray-5 m-0">${__(
-						"Open Source applications for the web."
+						"Integrated School & Office Management System"
 					)}</p>
-				</div>
-				<div class="about-social-btns flex gap-1">
-					<a href="https://frappe.io/" target="_blank" class="es-button" data-variant="ghost"
-						data-icon-button="true" title="${__("Website")}" aria-label="${__("Website")}">
-						${frappe.utils.icon("globe", "sm", "", "", "", true)}
-					</a>
-					<a href="https://github.com/frappe" target="_blank" class="es-button" data-variant="ghost"
-						data-icon-button="true" title="${__("Source Code")}" aria-label="${__("Source Code")}">
-						${frappe.utils.icon("github", "sm", "", "", "", true)}
-					</a>
-					<a href="https://discuss.frappe.io" target="_blank" class="es-button" data-variant="ghost"
-						data-icon-button="true" title="${__("Forum")}" aria-label="${__("Forum")}">
-						${frappe.utils.icon("message-circle", "sm", "", "", "", true)}
-					</a>
 				</div>
 			</div>
 
@@ -37,33 +23,18 @@ frappe.ui.misc.about = function () {
 				<div class="about-info-row flex items-center justify-between">
 					<div class="about-info-content flex flex-col gap-1">
 						<div class="about-info-title inline-flex items-center gap-1 text-base-semibold text-ink-gray-8">${__(
-							"Frappe Framework Version"
+							"System Core Version"
 						)}</div>
 						<div class="about-info-sub text-p-sm text-ink-gray-5" id="about-framework-version">
 							${__("Loading...")}
 						</div>
 					</div>
 				</div>
-				${
-					frappe.boot.is_fc_site
-						? `<div class="about-info-row flex items-center justify-between">
-					<div class="about-info-content flex flex-col gap-1">
-						<a href="https://frappecloud.com/support" target="_blank" class="about-info-title inline-flex items-center gap-1 about-info-title-link text-base-semibold text-ink-gray-8 no-underline">
-							${__("Frappe Support")}
-							${frappe.utils.icon("external-link", "xs")}
-						</a>
-						<div class="about-info-sub text-p-sm text-ink-gray-5">
-							${__("Visit Frappe Support Portal")}
-						</div>
-					</div>
-				</div>`
-						: ""
-				}
 			</div>
 
 			<div class="about-section-header flex items-center justify-between w-full">
 				<div class="about-section-label text-2xs text-ink-gray-6 text-uppercase">${__(
-					"Installed Apps"
+					"Installed Applications"
 				)}</div>
 				<button class="es-button hidden" data-variant="ghost" data-icon-button="true"
 					id="copy-apps-info" title="${__("Copy Apps Version")}" aria-label="${__("Copy Apps Version")}">
@@ -79,7 +50,7 @@ frappe.ui.misc.about = function () {
 		.removeClass("hide")
 		.prepend(
 			`<div class="about-footer text-p-sm text-ink-gray-4 text-center">
-			${__("&copy; Frappe Technologies Pvt. Ltd. and contributors")}
+			${__("&copy; 2026 Paradox Tech BD / AAIS. All rights reserved.")}
 		</div>`
 		);
 
@@ -120,18 +91,7 @@ frappe.ui.misc.about = function () {
 
 	const show_versions = function (versions) {
 		if (versions.frappe) {
-			$("#about-framework-version").text(`frappe: ${get_version_text(versions.frappe)}`);
-		}
-
-		// Show update button on Frappe Cloud sites when updates are available
-		const $version_row = $("#about-framework-version").closest(".about-info-row");
-		$version_row.find(".about-update-indicator").remove();
-		if (frappe.boot.has_app_updates && frappe.boot.is_fc_site) {
-			$(`<a href="https://frappecloud.com/dashboard/sites/${window.location.hostname}"
-					target="_blank"
-					class="es-button no-underline about-update-indicator">
-					${__("Update Available")}
-				</a>`).appendTo($version_row);
+			$("#about-framework-version").text(`Core: ${get_version_text(versions.frappe)}`);
 		}
 
 		const $wrap = $("#about-app-versions").empty();
@@ -140,13 +100,13 @@ frappe.ui.misc.about = function () {
 			if (app_name === "frappe") continue;
 			const app = versions[app_name];
 			const version_text = get_version_text(app);
-			const title = `${app_name}: ${app.version}`;
+			const title = `${app.title || app_name}: ${app.version}`;
 
 			$(`<div class="about-app-row flex items-center gap-3 cursor-pointer" role="button" tabindex="0" title="${title}">
 					${render_app_icon(app_name, app)}
 					<div class="about-app-info flex-1 min-w-0">
 						<div class="about-app-name text-base-semibold text-ink-gray-8">${__(app.title)}</div>
-						<div class="about-app-version text-sm text-ink-gray-5">${app_name}: ${version_text}</div>
+						<div class="about-app-version text-sm text-ink-gray-5">${app.title || app_name} v${version_text}</div>
 					</div>
 				</div>`).appendTo($wrap);
 		}

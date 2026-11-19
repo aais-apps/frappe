@@ -1,1 +1,3 @@
-{{ _("Built on {0}").format('<a href="https://frappeframework.com?source=website_footer" target="_blank" class="text-muted">Frappe</a>') }}
+{% if not frappe.db.get_single_value('Website Settings', 'hide_footer_powered_by') and frappe.db.get_single_value('Website Settings', 'footer_powered') %}
+{{ frappe.db.get_single_value('Website Settings', 'footer_powered') }}
+{% endif %}
