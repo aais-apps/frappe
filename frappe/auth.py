@@ -202,7 +202,11 @@ class LoginManager:
 			frappe.local.cookie_manager.set_cookie("system_user", "no", deduplicate=True)
 			if not resume:
 				frappe.local.response["message"] = "No App"
-				frappe.local.response["home_page"] = get_default_path() or "/" + get_home_page()
+				home_page = get_home_page()
+				if home_page and home_page not in ("me", "login"):
+					frappe.local.response["home_page"] = "/" + home_page.lstrip("/")
+				else:
+					frappe.local.response["home_page"] = get_default_path() or "/" + (home_page or "me")
 		else:
 			frappe.local.cookie_manager.set_cookie("system_user", "yes", deduplicate=True)
 			if not resume:
