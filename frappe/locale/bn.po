@@ -33070,7 +33070,6 @@ msgid "Upsert"
 msgstr "আপসার্ট (Upsert)"
 
 #: frappe/desk/doctype/onboarding_step/onboarding_step.json:121
-#, python-format
 msgid "Use % for any non empty value."
 msgstr "যেকোনো খালি নয় এমন মানের জন্য % ব্যবহার করুন।"
 
