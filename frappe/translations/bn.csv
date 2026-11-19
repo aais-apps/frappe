@@ -1,0 +1,205 @@
+Save,সংরক্ষণ করুন
+Submit,জমা দিন
+Update,আপডেট করুন
+Cancel,বাতিল করুন
+Delete,মুছে ফেলুন
+Edit,সম্পাদনা করুন
+New,নতুন
+Add,যোগ করুন
+Remove,অপসারণ করুন
+Discard,বাতিল করুন
+Close,বন্ধ করুন
+Print,প্রিন্ট করুন
+Email,ইমেইল করুন
+Export,রপ্তানি করুন
+Import,আমদানি করুন
+Search,অনুসন্ধান করুন
+Filter,ফিল্টার
+Clear Filters,ফিল্টার মুছুন
+Refresh,রিফ্রেশ করুন
+Reload,পুনরায় লোড করুন
+Actions,কার্যক্রম
+View,দেখুন
+Open,খুলুন
+Download,ডাউনলোড করুন
+Upload,আপলোড করুন
+Select,নির্বাচন করুন
+Apply,প্রয়োগ করুন
+Reset,রিসেট করুন
+Confirm,নিশ্চিত করুন
+Yes,হ্যাঁ
+No,না
+OK,ঠিক আছে
+Back,পেছনে
+Next,পরবর্তী
+Previous,পূর্ববর্তী
+Continue,চালিয়ে যান
+Complete,সম্পন্ন করুন
+Finish,শেষ করুন
+Duplicate,প্রতিলিপি তৈরি করুন
+Rename,নাম পরিবর্তন করুন
+Settings,সেটিংস
+Users,ব্যবহারকারীগণ
+User,ব্যবহারকারী
+Role,ভূমিকা
+Roles,ভূমিকা সমূহ
+Permissions,অনুমতিসমূহ
+Workflow,কর্মপ্রবাহ
+Notifications,বিজ্ঞপ্তি
+Notification,বিজ্ঞপ্তি
+Activity,কার্যকলাপ
+Dashboard,ড্যাশবোর্ড
+Reports,প্রতিবেদনসমূহ
+Report,প্রতিবেদন
+Status,অবস্থা
+Draft,খসড়া
+Submitted,জমাকৃত
+Cancelled,বাতিলকৃত
+Approved,অনুমোদিত
+Rejected,প্রত্যাখ্যাত
+Pending,অপেক্ষারত
+Active,সক্রিয়
+Inactive,নিষ্ক্রিয়
+Enabled,সক্রিয়
+Disabled,নিষ্ক্রিয়
+Success,সফল
+Failed,ব্যর্থ
+Error,ত্রুটি
+Warning,সতর্কতা
+Description,বিবরণ
+Title,শিরোনাম
+Name,নাম
+First Name,প্রথম নাম
+Middle Name,মধ্যম নাম
+Last Name,শেষ নাম
+Full Name,পূর্ণ নাম
+Email,ইমেইল
+Email Address,ইমেইল ঠিকানা
+Phone,ফোন
+Mobile Number,মোবাইল নম্বর
+Address,ঠিকানা
+City,শহর
+State,বিভাগ / জেলা
+Country,দেশ
+Date,তারিখ
+Time,সময়
+From Date,শুরুর তারিখ
+To Date,শেষের তারিখ
+Created On,তৈরির তারিখ
+Modified,সর্বশেষ পরিবর্তন
+Owner,মালিক
+Created By,প্রস্তুতকারী
+Password,পাসওয়ার্ড
+Remember Me,আমাকে মনে রাখুন
+Forgot Password?,পাসওয়ার্ড ভুলে গেছেন?
+Reset Password,পাসওয়ার্ড রিসেট করুন
+Login,লগইন
+Log In,লগইন করুন
+Logout,লগআউট
+Sign Up,সাইন আপ
+Create Account,অ্যাকাউন্ট তৈরি করুন
+Organization Settings,প্রতিষ্ঠান সেটিংস
+System Settings,সিস্টেম সেটিংস
+Website Settings,ওয়েবসাইট সেটিংস
+Toggle Theme,থিম পরিবর্তন
+Edit Profile,প্রোফাইল সম্পাদনা
+About,পরিচিতি
+Modules,মডিউলসমূহ
+All apps,সকল অ্যাপস
+Apps,অ্যাপস
+Attach,সংযুক্ত করুন
+Attachment,সংযুক্তি
+Attachments,সংযুক্তিসমূহ
+Comments,মন্তব্যসমূহ
+Add a comment...,মন্তব্য লিখুন...
+No Data,কোনো তথ্য নেই
+Nothing to show,দেখানোর মতো কিছু নেই
+Page,পৃষ্ঠা
+Rows,সারি
+Total,মোট
+Grand Total,সর্বমোট
+Net Total,নিট মোট
+Setup,সেটআপ
+Data,উপাত্ত
+Printing,প্রিন্টিং
+Integrations,ইন্টিগ্রেশন
+Contacts,যোগাযোগ
+Automation,স্বয়ংক্রিয়করণ
+Geo,ভৌগোলিক
+System,সিস্টেম
+Build,তৈরি করুন
+Portal,পোর্টাল
+Help,সহায়তা
+Documentation,ডকুমেন্টেশন
+Report an Issue,সমস্যা রিপোর্ট করুন
+Keyboard Shortcuts,কিবোর্ড শর্টকাট
+List,তালিকা
+Kanban,কানবান
+Calendar,ক্যালেন্ডার
+Gantt,গ্যান্ট চার্ট
+Image,ছবি
+File,ফাইল
+Files,ফাইলসমূহ
+Folder,ফোল্ডার
+Folders,ফোল্ডারসমূহ
+Home,হোম
+Search or type a command,অনুসন্ধান করুন বা নির্দেশ লিখুন
+Filter By,ফিল্টার করুন
+Sort By,সাজান
+Sort Order,ক্রম সাজান
+Ascending,ঊর্ধ্বক্রম
+Descending,নিম্নক্রম
+Show,দেখান
+Entries,এন্ট্রি
+Collapse,সংকুচিত করুন
+Expand,প্রসারিত করুন
+Select All,সব নির্বাচন করুন
+Unselect All,সব অনির্বাচন করুন
+Create New,নতুন তৈরি করুন
+View Details,বিস্তারিত দেখুন
+Go to,যান
+Are you sure?,আপনি কি নিশ্চিত?
+This action cannot be undone.,এই কাজটি ফিরিয়ে আনা যাবে না।
+Loading...,লোড হচ্ছে...
+Saving...,সংরক্ষণ করা হচ্ছে...
+Saved,সংরক্ষিত হয়েছে
+Deleted,মুছে ফেলা হয়েছে
+Updated,আপডেট করা হয়েছে
+Submitted successfully,সফলভাবে জমা দেওয়া হয়েছে
+Cancelled successfully,সফলভাবে বাতিল করা হয়েছে
+No results found,কোনো ফলাফল পাওয়া যায়নি
+Please wait...,অনুগ্রহ করে অপেক্ষা করুন...
+Error Log,ত্রুটি লগ
+Scheduled Job Log,নির্ধারিত কাজের লগ
+Activity Log,কার্যকলাপ লগ
+System Health,সিস্টেম স্বাস্থ্য
+Desk,ডেস্ক
+Desk User,ডেস্ক ব্যবহারকারী
+Website User,ওয়েবসাইট ব্যবহারকারী
+System Manager,সিস্টেম ম্যানেজার
+Administrator,প্রশাসক
+Guest,অতিথি
+Language,ভাষা
+Languages,ভাষাসমূহ
+Session Expired,সেশনের মেয়াদ শেষ হয়েছে
+Invalid Login,ভুল লগইন তথ্য
+You are not permitted to access this resource,আপনার এই তথ্যে প্রবেশের অনুমতি নেই
+Document,নথি
+Documents,নথিসমূহ
+Recent,সাম্প্রতিক
+Views,ভিউসমূহ
+Favorites,প্রিয় তালিকা
+Tags,ট্যাগ
+Timeline,টাইমলাইন
+History,ইতিহাস
+Versions,ভার্সনসমূহ
+Share,শেয়ার করুন
+Shared With,যাদের সাথে শেয়ার করা হয়েছে
+Permissions Manager,অনুমতি ব্যবস্থাপনা
+Role Permission Manager,ভূমিকা অনুমতি ব্যবস্থাপনা
+Custom Field,কাস্টম ফিল্ড
+Custom Fields,কাস্টম ফিল্ডসমূহ
+DocType,ডকটাইপ
+DocTypes,ডকটাইপসমূহ
+Translation,অনুবাদ
+Translations,অনুবাদসমূহ
