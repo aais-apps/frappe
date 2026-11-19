@@ -1,240 +1,1078 @@
-Save,সংরক্ষণ করুন
-Submit,জমা দিন
-Update,আপডেট করুন
-Cancel,বাতিল করুন
-Delete,মুছে ফেলুন
-Edit,সম্পাদনা করুন
-New,নতুন
-Add,যোগ করুন
-Remove,অপসারণ করুন
-Discard,বাতিল করুন
-Close,বন্ধ করুন
-Print,প্রিন্ট করুন
-Email,ইমেইল করুন
-Export,রপ্তানি করুন
-Import,আমদানি করুন
-Search,অনুসন্ধান করুন
-Filter,ফিল্টার
-Clear Filters,ফিল্টার মুছুন
-Refresh,রিফ্রেশ করুন
-Reload,পুনরায় লোড করুন
-Actions,কার্যক্রম
-View,দেখুন
-Open,খুলুন
-Download,ডাউনলোড করুন
-Upload,আপলোড করুন
-Select,নির্বাচন করুন
-Apply,প্রয়োগ করুন
-Reset,রিসেট করুন
-Confirm,নিশ্চিত করুন
-Yes,হ্যাঁ
-No,না
-OK,ঠিক আছে
-Back,পেছনে
-Next,পরবর্তী
-Previous,পূর্ববর্তী
-Continue,চালিয়ে যান
-Complete,সম্পন্ন করুন
-Finish,শেষ করুন
-Duplicate,প্রতিলিপি তৈরি করুন
-Rename,নাম পরিবর্তন করুন
-Settings,সেটিংস
-Users,ব্যবহারকারীগণ
-User,ব্যবহারকারী
-Role,ভূমিকা
-Roles,ভূমিকা সমূহ
-Permissions,অনুমতিসমূহ
-Workflow,কর্মপ্রবাহ
-Notifications,বিজ্ঞপ্তি
-Notification,বিজ্ঞপ্তি
-Activity,কার্যকলাপ
-Dashboard,ড্যাশবোর্ড
-Reports,প্রতিবেদনসমূহ
-Report,প্রতিবেদন
-Status,অবস্থা
-Draft,খসড়া
-Submitted,জমাকৃত
-Cancelled,বাতিলকৃত
-Approved,অনুমোদিত
-Rejected,প্রত্যাখ্যাত
-Pending,অপেক্ষারত
-Active,সক্রিয়
-Inactive,নিষ্ক্রিয়
-Enabled,সক্রিয়
-Disabled,নিষ্ক্রিয়
-Success,সফল
-Failed,ব্যর্থ
-Error,ত্রুটি
-Warning,সতর্কতা
-Description,বিবরণ
-Title,শিরোনাম
-Name,নাম
-First Name,প্রথম নাম
-Middle Name,মধ্যম নাম
-Last Name,শেষ নাম
-Full Name,পূর্ণ নাম
-Email,ইমেইল
-Email Address,ইমেইল ঠিকানা
-Phone,ফোন
-Mobile Number,মোবাইল নম্বর
-Address,ঠিকানা
-City,শহর
-State,বিভাগ / জেলা
-Country,দেশ
-Date,তারিখ
-Time,সময়
-From Date,শুরুর তারিখ
-To Date,শেষের তারিখ
-Created On,তৈরির তারিখ
-Modified,সর্বশেষ পরিবর্তন
-Owner,মালিক
-Created By,প্রস্তুতকারী
-Password,পাসওয়ার্ড
-Remember Me,আমাকে মনে রাখুন
-Forgot Password?,পাসওয়ার্ড ভুলে গেছেন?
-Reset Password,পাসওয়ার্ড রিসেট করুন
-Login,লগইন
-Log In,লগইন করুন
-Logout,লগআউট
-Sign Up,সাইন আপ
-Create Account,অ্যাকাউন্ট তৈরি করুন
-Organization Settings,প্রতিষ্ঠান সেটিংস
-System Settings,সিস্টেম সেটিংস
-Website Settings,ওয়েবসাইট সেটিংস
-Toggle Theme,থিম পরিবর্তন
-Edit Profile,প্রোফাইল সম্পাদনা
+A0,A0
+A1,A1
+A2,A2
+A3,A3
+A4,A4
+A5,A5
+A6,A6
+A7,A7
+A8,A8
+A9,A9
+ALL,সকল
 About,পরিচিতি
-Modules,মডিউলসমূহ
+Access,অ্যাক্সেস
+Account,হিসাবের খাত
+Action,কর্ম
+Action Type,কর্ম-এর ধরন
+Actions,অ্যাকশনসমূহ
+Activate,সক্রিয় করুন
+Active,সক্রিয়
+Activity,কার্যক্রম
+Activity Log,কার্যকলাপ লগ
+Add,যোগ করুন
+Add Attachment,সংযুক্তি যোগ করুন
+Add Child,চাইল্ড যোগ করুন
+Add Column,কলাম যোগ করুন
+Add Contact,যোগাযোগ যোগ করুন
+Add Contacts,পরিচিতি যোগ করুন
+Add Container,কন্টেইনার যোগ করুন
+Add Email Account,ইমেল অ্যাকাউন্ট যোগ করুন
+Add Filter,ফিল্টার যোগ করো
+Add Filters,ফিল্টার যোগ করুন
+Add Group,গ্রুপ যোগ করুন
+Add More,বেশি যোগ করুন
+Add New,নতুন যোগ করুন
+Add Page,পৃষ্ঠা যোগ করুন
+Add Permission,অনুমতি যোগ করুন
+Add Report,প্রতিবেদন যোগ করুন
+Add Roles,ভূমিকা নির্ধারণ (Roles) যোগ করুন
+Add Section,সেকশন যোগ করুন
+Add Signature,স্বাক্ষর যোগ করুন
+Add Tags,ট্যাগগুলি যোগ করুন
+Add Total Row,মোট সারি যোগ করুন
+Add User,ব্যবহারকারী যোগ করুন
+Add Workspace,কর্মপরিসর যোগ
+Add a comment...,মন্তব্য লিখুন...
+Add attachment,সংযুক্তি যোগ করুন
+Add card,কার্ড যোগ করুন
+Add column,কলাম যোগ করুন
+Add field,ক্ষেত্র যোগ করুন
+Add new tab,নতুন ট্যাব যোগ করুন
+Add role,ভূমিকা (Role) যোগ করুন
+Add row,নতুন সারি যোগ করুন
+Add tab,Tab যোগ করুন
+Address,ঠিকানা
+Address Line 1,ঠিকানা লাইন ১
+Address Line 2,ঠিকানা লাইন ২
+Address Type,ঠিকানা-এর ধরন
+Addresses,ঠিকানাগুলি
+Administrator,অ্যাডমিনিস্ট্রেটর
+Advanced,উন্নত
+Advanced Settings,উচ্চপর্যায়ের সেটিংস
+After,অন্তিম পৃষ্ঠ
+Alignment,অ্যালাইনমেন্ট
+All,সকল
+All Courses,সকল কোর্স
 All apps,সকল অ্যাপস
+Allow Modules,MODULES-এর অনুমতি দিন
+Allow Rename,নতুন নামকরণ-এর অনুমতি দিন
+Allow Roles,ভূমিকা নির্ধারণ (Roles)-এর অনুমতি দিন
+Allow comments,মন্তব্য-এর অনুমতি দিন
+Allow delete,মুছুন-এর অনুমতি দিন
+Allow notifications,বিজ্ঞপ্তি-এর অনুমতি দিন
+Allow print,প্রিন্ট করুন-এর অনুমতি দিন
+Always,সর্বদা
+Announcements,ঘোষণাসমূহ
+App,app
+App Name,app-এর নাম
+Appearance,চেহারা ছবি
+Application Name,অ্যাপ্লিকেশন-এর নাম
+Apply,প্রয়োগ করুন
+Approved,অনুমোদিত
 Apps,অ্যাপস
+Archive,আর্কাইভ
+Are you sure you want to proceed?,আপনি কি নিশ্চিত যে আপনি এগিয়ে যেতে চান?
+Are you sure?,আপনি কি নিশ্চিত?
+Ascending,আরোহী
+Ask,জিজ্ঞাসা করুন
+Assign To,দায়িত্ব অর্পণ করুন
+Assignments,অ্যাসাইনমেন্টসমূহ
 Attach,সংযুক্ত করুন
 Attachment,সংযুক্তি
+Attachment Settings,সংযুক্তি সেটিংস
 Attachments,সংযুক্তিসমূহ
-Comments,মন্তব্যসমূহ
-Add a comment...,মন্তব্য লিখুন...
-No Data,কোনো তথ্য নেই
-Nothing to show,দেখানোর মতো কিছু নেই
-Page,পৃষ্ঠা
-Rows,সারি
-Total,মোট
-Grand Total,সর্বমোট
-Net Total,নিট মোট
-Setup,সেটআপ
-Data,উপাত্ত
-Printing,প্রিন্টিং
-Integrations,ইন্টিগ্রেশন
-Contacts,যোগাযোগ
+Authentication,অনুমোদন ব্যবস্থা
+Author,নির্মাতা
+Authors,লেখক
+Auto,স্বয়ংক্রিয়
+Auto Name,স্বয়ংক্রিয়-এর নাম
+Autocomplete,স্বয়ংসম্পন্ন
+Automatic,স্বয়ংক্রিয়
 Automation,স্বয়ংক্রিয়করণ
-Geo,ভৌগোলিক
-System,সিস্টেম
+Automation Settings,স্বয়ংক্রিয়করণ সেটিংস
+Available to all users,সকল ব্যবহারকারীর কাছে উপলব্ধ
+B,বাইট
+B0,B0
+B1,B1
+B10,B10
+B2,B2
+B3,B3
+B4,B4
+B5,B5
+B6,B6
+B7,B7
+B8,B8
+B9,B9
+Back,পূর্ববর্তী
+Background,পটভূমি
+Background Color,পটভূমির রং
+Background Jobs,ব্যাকগ্রাউন্ড জবসমূহ
+Background color,পটভূমির রং
+Balance,স্থিতি / ব্যালেন্স
+Basic,প্রাথমিক
+Before,প্রচ্ছদ
+Blocks,ব্লকসমূহ
+Blue,নীল
+Board Name,বোর্ড-এর নাম
+Board Settings,বোর্ড সেটিংস
+Bold,গাঢ়
+Border,বর্ডার
+Bottom,নীচে
+Bottom Center,নিচে মাঝে
+Bottom Left,নিচে বামে
+Bottom Right,ডান দিকের নিচে
+Brand,ব্র্যান্ড
 Build,তৈরি করুন
-Portal,পোর্টাল
-Help,সহায়তা
-Documentation,ডকুমেন্টেশন
-Report an Issue,সমস্যা রিপোর্ট করুন
-Keyboard Shortcuts,কিবোর্ড শর্টকাট
-List,তালিকা
-Kanban,কানবান
-Calendar,ক্যালেন্ডার
-Gantt,গ্যান্ট চার্ট
-Image,ছবি
-File,ফাইল
-Files,ফাইলসমূহ
-Folder,ফোল্ডার
-Folders,ফোল্ডারসমূহ
-Home,হোম
-Search or type a command,অনুসন্ধান করুন বা নির্দেশ লিখুন
-Filter By,ফিল্টার করুন
-Sort By,সাজান
-Sort Order,ক্রম সাজান
-Ascending,ঊর্ধ্বক্রম
-Descending,নিম্নক্রম
-Show,দেখান
-Entries,এন্ট্রি
-Collapse,সংকুচিত করুন
-Expand,প্রসারিত করুন
-Select All,সব নির্বাচন করুন
-Unselect All,সব অনির্বাচন করুন
-Create New,নতুন তৈরি করুন
-View Details,বিস্তারিত দেখুন
-Go to,যান
-Are you sure?,আপনি কি নিশ্চিত?
-This action cannot be undone.,এই কাজটি ফিরিয়ে আনা যাবে না।
-Loading...,লোড হচ্ছে...
-Saving...,সংরক্ষণ করা হচ্ছে...
-Saved,সংরক্ষিত হয়েছে
-Deleted,মুছে ফেলা হয়েছে
-Updated,আপডেট করা হয়েছে
-Submitted successfully,সফলভাবে জমা দেওয়া হয়েছে
+Bullet list,বুলেট তালিকা
+Button,বাটন
+CANCELLED,বাতিল
+CSS,CSS
+Calendar,বর্ষপঞ্জি
+Calendar Name,বর্ষপঞ্জি-এর নাম
+Calendar View,ক্যালেন্ডার ভিউ
+Camera,ক্যামেরা
+Cancel,বাতিল করুন
+Cancelled,বাতিল
 Cancelled successfully,সফলভাবে বাতিল করা হয়েছে
-No results found,কোনো ফলাফল পাওয়া যায়নি
-Please wait...,অনুগ্রহ করে অপেক্ষা করুন...
-Error Log,ত্রুটি লগ
-Scheduled Job Log,নির্ধারিত কাজের লগ
-Activity Log,কার্যকলাপ লগ
-System Health,সিস্টেম স্বাস্থ্য
-Desk,ডেস্ক
-Desk User,ডেস্ক ব্যবহারকারী
-Website User,ওয়েবসাইট ব্যবহারকারী
-System Manager,সিস্টেম ম্যানেজার
-Administrator,প্রশাসক
-Guest,অতিথি
-Language,ভাষা
-Languages,ভাষাসমূহ
-Session Expired,সেশনের মেয়াদ শেষ হয়েছে
-Invalid Login,ভুল লগইন তথ্য
-You are not permitted to access this resource,আপনার এই তথ্যে প্রবেশের অনুমতি নেই
-Document,নথি
-Documents,নথিসমূহ
-Recent,সাম্প্রতিক
-Views,ভিউসমূহ
-Favorites,প্রিয় তালিকা
-Tags,ট্যাগ
-Timeline,টাইমলাইন
-History,ইতিহাস
-Versions,ভার্সনসমূহ
-Share,শেয়ার করুন
-Shared With,যাদের সাথে শেয়ার করা হয়েছে
-Permissions Manager,অনুমতি ব্যবস্থাপনা
-Role Permission Manager,ভূমিকা অনুমতি ব্যবস্থাপনা
-Custom Field,কাস্টম ফিল্ড
-Custom Fields,কাস্টম ফিল্ডসমূহ
-DocType,ডকটাইপ
-DocTypes,ডকটাইপসমূহ
-Translation,অনুবাদ
-Translations,অনুবাদসমূহ
-Profile,প্রোফাইল
-Settings,সেটিংস
-Help,সহায়তা
-Activity,কার্যক্রম
-My Settings,আমার সেটিংস
-Reload,পুনরায় লোড করুন
-Explore More,আরও দেখুন
-All Courses,সকল কোর্স
-Free,বিনামূল্যে
+Canvas,ক্যানভাস
+Capture,ধারণ
+Card,কার্ড
+Category,বিভাগ
+Category Name,বিভাগ-এর নাম
+Center,মধ্য
+Change,পরিবর্তন
+Change Password,পাসওয়ার্ড পরিবর্তন করুন
+Channel,চ্যানেল
+Chart,ছক
+Chart Name,ছক-এর নাম
+Chart Type,ছক-এর ধরন
+Chat,আলাপ
+City,শহর / জেলা
+Clear,মেঘমুক্ত আকাশ
+Clear Filters,ফিল্টার মুছুন
+Client Code,ক্লায়েন্ট কোড
+Client Script,ক্লায়েন্ট স্ক্রিপ্ট
+Close,বন্ধ করুন
+Closed,বন্ধ
+Code block,কোড ব্লক
+Collapse,সংকোচন
+Color,রঙ
+Column,কলাম
+Column Name,কলাম-এর নাম
+Column settings,কলাম সেটিংস
+Columns,কলামসমূহ
+Comment,মন্তব্য (কমেন্ট)
+Comment Type,মন্তব্য (কমেন্ট)-এর ধরন
+Comments,মন্তব্য
+Company Name,প্রতিষ্ঠান / কোম্পানি-এর নাম
 Complete,সম্পন্ন
 Completed,সম্পন্ন হয়েছে
-No Notifications,কোনো বিজ্ঞপ্তি নেই
-Notifications,বিজ্ঞপ্তি
-Messages,বার্তা
-Search or type a command (Ctrl + G),অনুসন্ধান করুন বা কমান্ড লিখুন (Ctrl + G)
-Session Expired,সেশন শেষ হয়েছে
-Are you sure you want to proceed?,আপনি কি নিশ্চিত যে আপনি এগিয়ে যেতে চান?
-Permanent Delete,স্থায়ীভাবে মুছে ফেলুন
-Close,বন্ধ করুন
-Back,পেছনে
-Next,পরবর্তী
-Previous,পূর্ববর্তী
-Done,সম্পন্ন
-Finish,সমাপ্ত
+Component,কম্পোনেন্ট / উপাদান
+Configure,কনফিগার করুন
 Confirm,নিশ্চিত করুন
-Submit,জমা দিন
-Update,হালনাগাদ করুন
-Select,নির্বাচন করুন
-Upload,আপলোড
-Download,ডাউনলোড
-Search,অনুসন্ধান
+Console,কনশোল
+Contact,যোগাযোগ
+Contact Details,যোগাযোগ-এর বিস্তারিত
+Contacts,পরিচিতি
+Continue,চালিয়ে যান
+Copy,অনুলিপি
+Copy Link,লিংক কপি করুন
+Copy to Clipboard,ক্লিপবোর্ডে কপি করুন
+Copyright,স্বত্বাধিকার
+Count,গণনা
+Country,দেশ
+Country Name,দেশ-এর নাম
+Create,তৈরি করুন
+Create Account,অ্যাকাউন্ট তৈরি করুন
+Create Folder,ফোল্ডার তৈরি করুন
+Create New,নতুন তৈরি করুন
+Created By,নির্মাতা
+Created On,এই তারিখে তৈরি করা হয়েছে
+Crop,ছাঁটা
+Currency,মুদ্রা
+Currency Name,মুদ্রা-এর নাম
+Current,বর্তমান
+Current status,বর্তমান-এর অবস্থা
+Custom,স্বনির্ধারিত
+Custom Field,কাস্টম ফিল্ড
+Custom Fields,কাস্টম ফিল্ডসমূহ
+Customize,স্বনির্ধারিত
+Cut,কাটুন
+DELAY,বিলম্ব
+DELETE,মুছুন
+DRAFT,খসড়া
+Dark,অন্ধকার
+Dashboard,ড্যাশবোর্ড
+Dashboard Chart,ড্যাশবোর্ড চার্ট
+Dashboard Name,ড্যাশবোর্ড-এর নাম
+Dashboard Settings,ড্যাশবোর্ড সেটিংস
+Data,ডাটা
+Database,তথ্যভিত্তি
+Date,তারিখ
+Date Format,তারিখ প্রদর্শনের বিন্যাস
+Date format,তারিখ প্রদর্শনের বিন্যাস
+Day,দিন
+Days,দিন:
+Decrease,হ্রাস
+Decrease indent,অবচ্ছেদের মাত্রা হ্রাস করুন
+Default,ডিফল্ট মান
+Default App,ডিফল্ট অ্যাপ
+Default Layout,ডিফল্ট বিন্যাস
+Default Print Format,ডিফল্ট প্রিন্ট ফরম্যাট
+Default Sort Order,ডিফল্ট অবস্থায় ব্যবহৃত ক্রমবিন্যাস
+Default Theme,ডিফল্ট থিম
+Default User Type,ডিফল্ট ব্যবহারকারী-এর ধরন
+Default Value,ডিফল্ট মান
+Default View,ডিফল্ট প্রদর্শন
+Default Workspace,ডিফল্ট ওয়ার্কস্পেস
+Default updated,ডিফল্ট আপডেট করা হয়েছে
+Defaults,ডিফল্ট
+Delay,বিলম্ব
+Delete,মুছুন
+Delete Account,হিসাবের খাত মুছুন
+Delete All,সকল মুছুন
+Delete Column,কলাম মুছুন
+Delete Data,ডাটা মুছুন
+Delete Row,সারি মুছুন
+Delete Section,সেকশন মুছুন
+Delete Tab,Tab মুছুন
+Delete Table,সারণী মুছুন
+Delete all,সকল মুছুন
+Delete attachment,সংযুক্তি মুছুন
+Delete column,কলাম মুছুন
+Delete row,সারি মুছুন
+Delete section,সেকশন মুছুন
+Delete tab,Tab মুছুন
+Deleted,মুছে ফেলা হয়েছে
+Deleted Name,মুছে ফেলা হয়েছে-এর নাম
+Delivery Status,ডেলিভারি / সরবরাহ-এর অবস্থা
+Department,বিভাগ
+Deprecated,অবচিত
+Descending,অবরোহী
+Description,বিবরণ
+Designation,পদবী
+Desk,ডেস্ক
+Desk Settings,ডেস্ক সেটিংস
+Desk User,ডেস্ক ব্যবহারকারী
+Desktop,ডেস্কটপ
+Desktop Icon,ডেস্কটপ আইকন
+Desktop Settings,ডেস্কটপ সেটিংস
+Detail,বিস্তারিত
+Details,বিস্তারিত বর্নণা
+Diff,Diff
+Digits,অংক
+Direction,দিকবিন্যাস
+Disable,নিষ্ক্রিয় করুন
+Disabled,নিষ্ক্রিয়
+Discard,অগ্রাহ্য করা
+Dismiss,বাতিল
+Display,ডিসপ্লে
+Doc Status,ডক-এর অবস্থা
+DocType,ডকটাইপ
+DocType Settings,ডকটাইপ সেটিংস
+DocTypes,ডকটাইপসমূহ
+Doctype,ডকটাইপ
+Document,নথি
+Document Name,নথি-এর নাম
+Document Status,নথি-এর অবস্থা
+Document Type,নথি-এর ধরন
+Documentation,ডকুমেনটেশন
+Documents,নথিসমূহ
+Done,সম্পন্ন
+Download,Download
+Draft,খসড়া
+Due Date,পরিশোধের শেষ তারিখ
+Duplicate,প্রতিলিপি তৈরি করুন
+Duplicate Name,প্রতিলিপি তৈরি করুন-এর নাম
+Duration,সময়কাল
+ESC,Esc
+Edit,সম্পাদনা করুন
+Edit Chart,ছক সম্পাদনা করুন
+Edit DocType,ডকটাইপ সম্পাদনা করুন
+Edit Filter,ফিল্টার সম্পাদনা করুন
+Edit Filters,ফিল্টার সম্পাদনা করুন
+Edit Format,বিন্যাস সম্পাদনা করুন
+Edit HTML,HTML সম্পাদনা করুন
+Edit Heading,শিরোনাম সম্পাদনা করুন
+Edit Layout,বিন্যাস সম্পাদনা করুন
+Edit Number Card,নম্বর কার্ড সম্পাদনা করুন
+Edit Print Format,প্রিন্ট ফরম্যাট সম্পাদনা করুন
+Edit Profile,প্রোফাইল সম্পাদনা
+Edit Properties,বৈশিষ্ট্য সম্পাদনা করুন
+Edit Quick List,দ্রুত তালিকা সম্পাদনা করুন
+Edit Section,সেকশন সম্পাদনা করুন
+Edit Shortcut,শর্ট-কাট সম্পাদনা করুন
+Edit Sidebar,পার্শ্বদণ্ড সম্পাদনা করুন
+Edit layout,বিন্যাস সম্পাদনা করুন
+Edit mode,মোড সম্পাদনা করুন
+Edit row,সারি সম্পাদনা করুন
+Email,ইমেল
+Email Account,ইমেল অ্যাকাউন্ট
+Email Account Name,ইমেল অ্যাকাউন্ট-এর নাম
+Email Address,ইমেল ঠিকানা
+Email Group,ইমেল গ্রুপ
+Email Queue,ইমেল সারি
+Email Settings,ইমেল সেটিংস
+Email Status,ইমেল-এর অবস্থা
+Enable,সক্রিয় করুন
+Enabled,সক্রিয়
+End,End
+End Date,End-এর তারিখ
+Entity Name,Entity-এর নাম
+Entity Type,Entity-এর ধরন
+Entries,এন্ট্রি
+Equals,equals
+Error,ত্রুটি
+Error Log,ত্রুটি লগ
+Errors,ত্রুটি
+Events,ঘটনাসমূহ
+Everyone,সবাই
+Examples:,উদাহরণ:
+Excellent,চমৎকার
+Execute,এক্সিকিউট
+Executive,এক্সেকিউটিভ
+Expand,প্রসারণ
+Experimental,পরীক্ষামূলক
+Expired,মেয়াদোত্তীর্ণ
+Expires,মেয়াদউত্তীর্ণ
+Explore More,আরও দেখুন
+Export,রপ্তানি (Export)
+Export Type,রপ্তানি (Export)-এর ধরন
+External,বহিস্থিত
+FAILURE,বিফলতা
+Fail,অনুত্তীর্ণ
+Failed,অনুত্তীর্ণ
+Failure,বিফলতা
+Failure Rate,বিফলতা-এর হার
+Favorites,প্রিয় তালিকা
+Female,নারী
+Field,ক্ষেত্র
+Field Name,ক্ষেত্র-এর নাম
+Field Type,ক্ষেত্র-এর ধরন
+File,ফাইল
+File Manager,ফাইল ম্যানেজার
+File Name,ফাইলের নাম
+File Size,ফাইল-এর মাপ
+File Type,ফাইলের ধরন
+Filename,ফাইলের নাম
+Files,ফাইল
 Filter,ফিল্টার
-Clear,মুছে ফেলুন
-Reset,পুনরায় সেট করুন
-Apply,প্রয়োগ করুন
+Filter By,ফিল্টার করুন
+Filter List,ফিল্টার তালিকা
+Filter Name,ফিল্টার-এর নাম
+Filters,ফিল্টার
+Fingerprint,আঙ্গুলের ছাপ
+Finish,সমাপ্ত
+Finished,সমাপ্ত
+First,প্রথম
+First Name,প্রথম নাম
+Fit,আঁটাও
+Float,দশমিক
+Folder,ফোল্ডার
+Folder Name,ফোল্ডারের নাম
+Folders,ফোল্ডারসমূহ
+Folio,ফোলিও
+Font,ফন্ট
+Font Properties,ফন্টের বৈশিষ্ট্য
+Font Size,ফন্টের আকার
+Font size,ফন্টের আকার
+Fonts,ফন্ট
+Footer,ফুটার
+Footer Date,ফুটার-এর তারিখ
+Footer Details,ফুটার-এর বিস্তারিত
+Force,বলপূর্বক
+Forgot Password?,পাসওয়ার্ড ভুলে গেছেন?
+Form,গঠন
+Form Settings,গঠন সেটিংস
+Format,বিন্যাস
+Forward,পরবর্তী
+Fraction,ভগ্নাংশ
+Free,বিনামূল্যে
+Frequency,কম্পাঙ্ক
+Friday,শুক্রবার
+From,আরম্ভ
+From Date,আরম্ভ-এর তারিখ
+Full,সম্পূর্ণ
+Full Name,পূর্ণ নাম
+Full screen,পর্দাজুড়ে প্রদর্শন
+Function,ফাংশন
+Gantt,গ্যান্ট চার্ট
+Gantt View,গ্যান্ট ভিউ
+Gap,GAP
+Gender,স্ত্রী/পুরুষ
+General,সাধারণ
+Geo,ভৌগোলিক
+Global,সার্বজনীন
+Go,যান
+Go to,যান
+Good,ভাল
+Grand Total,সর্বমোট
+Gray,ধূসর
+Greater Than,greater than
+Greater Than Or Equal To,এর থেকে বড় অথবা সমান
+Green,সবুজ
+Grid,গ্রিড
+Group,গ্রুপ
+Guest,অতিথি
+HTML,HTML
+Has  Attachment,সংযুক্তি আছে কিনা
+Has Role,ভূমিকা (Role) আছে কিনা
+Header,হেডার
+Heading,শিরোনাম
+Height,উচ্চতা
+Help,সহায়তা
+Hidden,আড়াল করা
+Hide,লুকান
+Hide details,লুকান-এর বিস্তারিত
+High,বেশি
+History,ইতিহাস
+Home,প্রথম পাতা
+Home Page,মূল পাতা
+Home Settings,প্রথম পাতা সেটিংস
+Horizontal,অনুভূমিক
+Hours,ঘণ্টা
+ID,ID
+IP Address,IP ঠিকানা
+Icon,আইকন
+Icon Type,আইকন-এর ধরন
+Icons,অাইকন
+Identity Details,পরিচয়-এর বিস্তারিত
+Image,ছবি
+Image View,ছবি ভিউ
+Image size,ছবির মাপ
+Import,আমদানি (Import)
+Import Type,আমদানি (Import)-এর ধরন
+Import settings,আমদানি (Import) সেটিংস
+In Progress,চলমান
+Inactive,নিষ্ক্রিয়
+Increase,বৃদ্ধি
+Increase indent,অবচ্ছেদের মাত্রা বৃদ্ধি করুন
+Indent,অবচ্ছেদ
+Index,সূচী
+Info,তথ্য
+Inherit,ইনহেরিট
+Insert,Insert
+Insert Above,উপরে সন্নিবেশ করুন
+Insert Below,নিচে সন্নিবেশ করুন
+Integrations,ইন্টিগ্রেশন
+Internal Server Error,অভ্যন্তরীণ সার্ভার ত্রুটি
+Invalid,অবৈধ
+Invalid Date,অবৈধ-এর তারিখ
+Invalid Login,ভুল লগইন তথ্য
+Invalid file name,ফাইলের নাম বৈধ নয়
+Is Active,সক্রিয় অবস্থায় আছে
+Is Complete,সম্পন্ন কিনা
+Is Completed,সম্পন্ন হয়েছে কিনা
+Is Current,বর্তমান কিনা
+Is Custom,স্বনির্ধারিত কিনা
+Is Custom Field,কাস্টম ফিল্ড কিনা
+Is Default,ডিফল্ট মান কিনা
+Is Folder,ফোল্ডার কিনা
+Is Group,গ্রুপ কিনা
+Is Hidden,আড়াল করা কিনা
+Is Home Folder,ব্যক্তিগত ফোল্ডার কিনা
+Is Optional,ঐচ্ছিক কিনা
+Is Primary,প্রাথমিক কিনা
+Is Public,Public কিনা
+Is Single,একক কিনা
+Is Standard,মান কিনা
+Is Table,সারণী কিনা
+Is Tree,ট্রি কিনা
+Is Virtual,এটি ভার্চুয়াল
+Is standard,মান কিনা
+Italic,তেরছা
+Item,আইটেম / পণ্য
+Item Type,আইটেম / পণ্য-এর ধরন
+Items,আইটেমসমূহ
+JavaScript,Javascript
+Javascript,Javascript
+Job Name,কাজের নাম
+Job Status,কর্ম-এর অবস্থা
+Kanban,কানবান
+Kanban Settings,কানবান সেটিংস
+Kanban View,কানবান ভিউ
+Key,কি
+Keyboard Shortcuts,কি-বোর্ড শর্ট-কাট
+Label,লেবেল
+Landscape,ভূদৃশ্য বিন্যাস
+Language,ভাষা
+Language Code,ভাষা কোড
+Language Name,ভাষার নাম
+Languages,ভাষাসমূহ
+Last,শেষ
+Last Modified Date,সর্বশেষ পরিবর্তিত-এর তারিখ
+Last Name,শেষ নাম
+Layout,বিন্যাস
+Layout name,বিন্যাস-এর নাম
+Left,বাঁদিকে
+Left Bottom,বামে নিচে
+Less,কম
+Less Than,less than
+Less Than Or Equal To,এর থেকে ছোট অথবা সমান
+Letter Head,লেটারহেড
+Letter Head Name,লেটারহেড-এর নাম
+Library,লাইব্রেরী
+License,লাইসেন্স
+License Type,লাইসেন্স-এর ধরন
+Light,হালকা
+Like,পছন্দ
+Limit,সীমা
+Line,লাইন
+Link,লিংক
+Link Details,লিংক-এর বিস্তারিত
+Link Name,লিংক-এর নাম
+Link Type,লিংক-এর ধরন
+Links To,লিঙ্ক করে
+List,তালিকা
+List Columns,কলামের তালিকা
+List Settings,তালিকা সেটিংস
+List View,তালিকা অনুসারে প্রদর্শন
+List View Settings,তালিকা অনুসারে প্রদর্শন সেটিংস
+Loading...,লোড করা হচ্ছে...
+Location,অবস্থান
+Log In,লগইন করুন
+Login,লগইন
+Logout,লগআউট
+Low,কম
+Male,পুরুষ
+Manual,ব্যবহারকারী দ্বারা নির্ধারিত
+Margin,মার্জিন
+Mask,মাস্ক
+Max Length,সর্বোচ্চ দৈর্ঘ্য
+Me,আমি
+Medium,মাঝারি
+Menu,Menu
+Message,বার্তা
+Message Type,বার্তার ধরন
+Messages,বার্তাসমূহ
+Meta,Meta
+Meta Description,মেটা বিবরণ
+Meta Image,মেটা ছবি
+Meta Title,মেটা শিরোনাম
+Metadata,মেটাডেটা
+Middle Name,মধ্যবর্তী-এর নাম
+Minimize,আড়াল করুন
+Minutes,মিনিট
+Mobile,মোবাইল নম্বর
+Mobile No,মোবাইল নম্বর
+Mobile Number,মোবাইল নম্বর
+Modified,পরিবর্তিত
+Modules,MODULES
+Monday,সোমবার
+Monospace,Monospace
+Month,মাস
+More,বেশি
+Move,স্থানান্তরণ
+Move To Trash,ট্র্যাশে সরান
+Move to...,এখানে সরাও...
+Move to…,এখানে সরান...
+Ms,মিলিসেকেন্ড
+Muted,নিঃশব্দ
+My Settings,আমার সেটিংস
+N/A,উপলব্ধ নয়
+NEVER,কখনও নয়
+Name,নাম
+Navigation Settings,নেভিগেশন সেটিংস
+Net Total,নিট মোট
+Never,কখনও নয়
+New,নতুন
+New Activity,নতুন কার্যক্রম
+New Address,নতুন ঠিকানা
+New Chart,নতুন ছক
+New Contact,নতুন যোগাযোগ
+New Email,নতুন ইমেল
+New Email Account,নতুন ইমেল অ্যাকাউন্ট
+New Folder,নতুন ফোল্ডার
+New Format Name,নতুন ফরমেট নাম
+New Kanban,নতুন কানবান
+New Name,নতুন নাম
+New Notification,নতুন বিজ্ঞপ্তি
+New Number Card,নতুন নম্বর কার্ড
+New Parent,নতুন ঊর্ধ্বতন বস্তু
+New Password,নতুন পাসওয়ার্ড
+New Print Format,নতুন প্রিন্ট ফরম্যাট
+New Print Format Name,নতুন প্রিন্ট ফরম্যাট-এর নাম
+New Quick List,নতুন দ্রুত তালিকা
+New Report name,নতুন প্রতিবেদন-এর নাম
+New Role Name,নতুন ভূমিকা (Role)-এর নাম
+New Shortcut,নতুন শর্ট-কাট
+New Template,নতুন টেমপ্লেট
+New Value,নতুন মান
+New Workflow,নতুন ওয়ার্কফ্লো
+New Workflow Name,নতুন ওয়ার্কফ্লো-এর নাম
+New Workspace,নতুন ওয়ার্কস্পেস
+Next,পরবর্তী
+No,না
+No Data,কোনো তথ্য নেই
+No Notifications,কোনো বিজ্ঞপ্তি নেই
+No results found,কোন ফলাফল পাওয়া যায়নি
+None,শূণ্য
+Normal,স্বাভাবিক
+Not Permitted,অনুমতি নেই
+Not Set,নির্ধারিত হয়নি
+Not active,সক্রিয় নয়
+Not set,নির্ধারিত হয়নি
+Note:,নোট:
+Nothing to show,দেখানোর মতো কিছু নেই
+Notification,বিজ্ঞপ্তি
+Notification Settings,বিজ্ঞপ্তি সেটিংস
+Notification Type,বিজ্ঞপ্তি-এর ধরন
+Notifications,বিজ্ঞপ্তি
+Now,এখন
+Number,সংখ্যা
+Number Card,নম্বর কার্ড
+Number Card Name,নম্বর কার্ড-এর নাম
+OK,ঠিক আছে
+OPTIONS,বিকল্প
+Off,বন্ধ
+Office,অফিস
+On Hold,স্থগিত
+Oops! Something went wrong.,ওহ হো! কিছু সমস্যা হয়েছে।
+Opacity,অস্বচ্ছতা
+Open,উন্মুক্ত
+Open file,ফাইল খুলুন
+Open in New Tab,নতুন ট্যাবে খোলা
+Operation,প্রক্রিয়া
+Optional,ঐচ্ছিক
+Options,বিকল্প
+Orange,কমলা
+Organization Settings,প্রতিষ্ঠান সেটিংস
+Orientation,দিক
+Original,আসল
+Other,অন্য
+Output,আউটপুট
+Overview,সারসংক্ষেপ
+Owner,মালিক
+PDF,PDF
+PDF Settings,PDF সেটিংস
+Package,প্যাকেজ
+Package Name,প্যাকেজ-এর নাম
+Padding,প্যাডিং
+Page,পৃষ্ঠা
+Page Name,পৃষ্ঠা-এর নাম
+Page Settings,পৃষ্ঠা সেটিংস
+Page Size,পৃষ্ঠার আকার
+Page Title,পৃষ্ঠার শিরোনাম
+Pages,পৃষ্ঠাসমূহ
+Paper Size,কাগজের মাপ
+Paper size,কাগজের মাপ
+Paragraph,অনুচ্ছেদ
+Parameter,পরামিতি
+Parent,ঊর্ধ্বতন বস্তু
+Pass,উত্তীর্ণ
+Password,পাসওয়ার্ড
+Paste,লেপন
+Path,পথ
+Pending,মুলতবি
+Pending Approval,অনুমোদনের অপেক্ষায়
+Percent,percent
+Percentage,শতকরা হার
+Permanent Delete,স্থায়ীভাবে মুছে ফেলুন
+Permission,অনুমতি
+Permission Type,অনুমতি-এর ধরন
+Permissions,অনুমতিসমূহ
+Permissions Manager,অনুমতি ব্যবস্থাপনা
+Personal,ব্যক্তিগত
+Phone,ফোন
+Pin,পিন করা হবে
+Pinned,পিন করা
+Please wait...,অনুগ্রহ করে অপেক্ষা করুন...
+Poor,খারাপ
+Port,পোর্ট
+Portal,পোর্টাল
+Portal Settings,পোর্টাল সেটিংস
+Portrait,প্রতিকৃতি বিন্যাস
+Position,অবস্থান
+Postal Code,পোস্টাল কোড
+Preferences,পছন্দ
+Prefix,উপসর্গ
+Preview,প্রিভিউ
+Preview:,প্রাকদর্শন:
+Previous,পূর্ববর্তী
+Primary,প্রাথমিক
+Print,প্রিন্ট করুন
+Print Format,প্রিন্ট ফরম্যাট
+Print Format Type,প্রিন্ট ফরম্যাট-এর ধরন
+Print Formats,প্রিন্ট ফরম্যাটসমূহ
+Print Settings,প্রিন্টের বৈশিষ্ট্য
+Print document,নথী ছাপাও
+Print format,প্রিন্ট ফরম্যাট
+Printer,প্রিন্টার
+Printer Name,প্রিন্টার-এর নাম
+Printer Settings,প্রিন্টারের বৈশিষ্ট্য
+Printing,প্রিন্ট করা হচ্ছে
+Priority,অগ্রাধিকার
+Profile,বৃত্তান্ত
+Progress,অগ্রগতি
+Project,প্রকল্প
+Property,বৈশিষ্ট্য
+Property Setter,প্রপার্টি সেটার
+Property Type,বৈশিষ্ট্য-এর ধরন
+Provider,পরিসেবা উপলব্ধকারী
+Provider Name,পরিসেবা উপলব্ধকারী-এর নাম
+Public,Public
+Publish,প্রকাশ করুন
+Published,প্রকাশিত
+Purple,পার্পল
+Python,Python
+QR Code,কিউআর কোড
+Query Report,কুয়েরি রিপোর্ট
+Quick List,দ্রুত তালিকা
+Radius,ব্যাসার্ধ
+Random,যথেচ্ছ
+Range,সুনির্দিষ্ট সীমা
+Rating,মাত্রা
+Read,পড়া
+Read Only,শুধুমাত্র পড়ার জন্য
+Recent,সাম্প্রতিক
+Red,লাল
+Redo,পুনরাবৃত্তি
+Refresh,রিফ্রেশ করুন
+Refresh List,রিফ্রেশ করুন তালিকা
+Rejected,প্রত্যাখ্যাত
+Release,রিলিজ
+Reload,পুনরায় লোড করুন
+Reload List,পুনরায় লোড করুন তালিকা
+Remember Me,আমাকে মনে রাখুন
+Remove,মুছে ফেলুন
+Remove selected,সিলেক্টেড সরান
+Rename,নতুন নামকরণ
+Repeat,পুনরাবৃত্তি
+Reply,উত্তর দিন
+Report,প্রতিবেদন
+Report Builder,রিপোর্ট নির্মাতা
+Report Name,প্রতিবেদন-এর নাম
+Report Settings,প্রতিবেদন সেটিংস
+Report Type,প্রতিবেদন-এর ধরন
+Report View,রিপোর্ট ভিউ
+Report an Issue,সমস্যা রিপোর্ট করুন
+Reports,প্রতিবেদনসমূহ
+Reset,রি-সেট করুন
+Reset Password,পাসওয়ার্ড রিসেট করুন
+Reset all,সব পুনঃনির্ধারণ
+Resource,সংযুক্তি
+Resource Name,সংযুক্তি-এর নাম
+Restore,পুনরুদ্ধার করুন
+Result,ফলাফল
+Retry,আবার চেষ্টা করো
+Right,ডানদিকে
+Right Bottom,ডানে নিচে
+Role,ভূমিকা (Role)
+Role Name,ভূমিকা (Role)-এর নাম
+Role Permission Manager,ভূমিকা অনুমতি ব্যবস্থাপনা
+Role Permissions Manager,রোল পারমিশন ম্যানেজার
+Role Profile,ভূমিকা প্রোফাইল
+Roles,ভূমিকা নির্ধারণ (Roles)
+Round Robin,রাউন্ড রবিন
+Route,রুট / লিংক
+Row,সারি
+Row Name,সারি-এর নাম
+Rows,সারিসমূহ
+Rule,নিয়ম
+Run,চালান
+Running,চলছে
+SQL,SQL
+SUCCESS,সফল
+Saturday,শনিবার
+Save,সংরক্ষণ করুন
+Saved,সংরক্ষিত হয়েছে
+Saving...,সংরক্ষণ করা হচ্ছে...
+Schedule,সময়সূচী
+Scheduled Job Log,নির্ধারিত কাজের লগ
+Scheduled Job Type,নির্ধারিত জব টাইপ
+Scope,সুযোগ
+Script Report,স্ক্রিপ্ট রিপোর্ট
+Scripts,স্ক্রিপ্ট
+Search,অনুসন্ধান
+Search Results,অনুসন্ধানের ফলাফল
+Search or type a command,অনুসন্ধান করুন বা নির্দেশ লিখুন
+Search or type a command (Ctrl + G),অনুসন্ধান করুন বা কমান্ড লিখুন (Ctrl + G)
+Secondary,দ্বিতীয়
+Seconds,সেকেন্ড
+Section,সেকশন
+Security Settings,নিরাপত্তা সেটিংস
+Select,নির্বাচন
+Select All,সমগ্র নির্বাচন করুন
+Select Attachments,সংযুক্তিসমূহ নির্বাচন করুন
+Select Column,কলাম নির্বাচন করুন
+Select Columns,কলামসমূহ নির্বাচন করুন
+Select Country,দেশ নির্বাচন করুন
+Select Currency,মুদ্রা নির্বাচন করুন
+Select Dashboard,ড্যাশবোর্ড নির্বাচন করুন
+Select DocType,ডকটাইপ নির্বাচন করুন
+Select Doctype,ডকটাইপ নির্বাচন করুন
+Select Document Type,নথি-এর ধরন নির্বাচন করুন
+Select Field,ক্ষেত্র নির্বাচন করুন
+Select Filters,ফিল্টার নির্বাচন করুন
+Select Kanban,কানবান নির্বাচন করুন
+Select Language,ভাষা নির্বাচন করুন
+Select List View,তালিকা অনুসারে প্রদর্শন নির্বাচন করুন
+Select Options,বিকল্প নির্বাচন করুন
+Select Page,পৃষ্ঠা নির্বাচন করুন
+Select Print Format,প্রিন্ট ফরম্যাট নির্বাচন করুন
+Select Report,প্রতিবেদন নির্বাচন করুন
+Select Workflow,ওয়ার্কফ্লো নির্বাচন করুন
+Select Workspace,ওয়ার্কস্পেস নির্বাচন করুন
+Select date format,তারিখ প্রদর্শনের বিন্যাস নির্বাচন করুন
+Select field,ক্ষেত্র নির্বাচন করুন
+Select format,বিন্যাস নির্বাচন করুন
+Select list item,তালিকার বস্তু নির্বাচন করুন
+Selection,নির্বাচন
+Separator,বিভাজক
+Server Error,সার্ভার ত্রুটি (500)
+Service,পরিষেবা
+Session Default,সেশন ডিফল্ট
+Session Default Settings,সেশন ডিফল্ট সেটিংস
+Session Defaults,সেশন ডিফল্ট সেটিংস
+Session Expired,সেশন শেষ হয়েছে
+Set,নির্ধারণ করা হবে
+Set Quantity,নির্ধারণ করা হবে-এর পরিমাণ
+Set as Default,ডিফল্ট হিসাবে সেট করুন
+Set as default,ডিফল্ট হিসাবে সেট করুন
+Setting,নিযুক্ত করছে
+Settings,সেটিংস
+Setup,সেটআপ
+Share,Share
+Shared,অংশীদারি করা
+Shared With,যাদের সাথে শেয়ার করা হয়েছে
+Shortcut,শর্ট-কাট
+Shortcuts,শর্ট-কাট
+Show,দেখান
+Show All,সমস্ত প্রদর্শন করা
+Show Arrow,তীরচিহ্ন প্রদর্শন করো
+Show Preview,প্রাকদর্শন দেখাও
+Show Sidebar,পার্শ্বদণ্ড দেখান
+Show list,তালিকা দেখান
+Show sidebar,সাইডবার দেখাও
+Sidebar,পার্শ্বদণ্ড
+Sidebar Settings,পার্শ্বদণ্ড সেটিংস
+Sign Up,সাইন আপ
+Sign up,সাইন আপ
+Signature,স্বাক্ষর
+Size,মাপ
+Skip,উপেক্ষা করুন
+Slideshow,স্লাইড-শো
+Slideshow Name,স্লাইড-শো-এর নাম
+Slow,মন্থর
+Snapshot,স্ন্যাপশট
+Solid,গাঢ়
+Sort By,সাজান
+Sort Order,সাজানোর ধারা
+Source,সোর্স
+Source Code,সোর্স কোড
+Source Name,সোর্স-এর নাম
+Spacer,স্পেসার
+Spacing,স্পেস স্থাপন
+Split view,বিভক্ত ভিউ
+Standard,মান
+Start,শুরু
+Start Date,শুরু-এর তারিখ
+Start Time,শুরুর সময়
+Started,আরম্ভ করা হয়েছে
+State,প্রদেশ
+Statistics,পরিসংখ্যান
+Stats,পরিসংখ্যান
+Status,অবস্থা
+Sticky,স্টিকি
+Stop,বন্ধ করুন
+Stopped,বন্ধ
+Strikethrough,মধ্যে রেখাঙ্কিত
+Strong,শক্তিশালী
+Style,বিন্যাস
+Style Settings,বিন্যাস সেটিংস
+Subject,বিষয়
+Submit,জমা দিন
+Submitted,জমা দেওয়া হয়েছে
+Submitted successfully,সফলভাবে জমা দেওয়া হয়েছে
+Subscript,Subscript
+Success,সফল
+Summary,সারাংশ
+Sunday,রবিবার
+Superscript,Superscript
+Symbol,প্রতীক
+System,সিস্টেম
+System Health,সিস্টেম স্বাস্থ্য
+System Manager,সিস্টেম ম্যানেজার
+System Settings,সিস্টেম সেটিংস
+Tab,Tab
+Tab Label,ট্যাবের লেবেল
+Table,সারণী
+Tabloid,ট্যাবলয়েড
+Tag,Tag
+Tags,ট্যাগগুলি
+Target,টার্গেট
+Task,কাজ / টাস্ক
+Tasks,কাজসমূহ
+Template,টেমপ্লেট
+Templates,Templates
+Text,টেক্সট
+Text Color,লেখার রং
+Text direction,টেক্সট লেখার দিক
+Theme,থিম
+This action cannot be undone.,এই কাজটি ফিরিয়ে আনা যাবে না।
+Thursday,বৃহস্পতিবার
+Time,সময়
+Time:,সময়:
+Timeline,টাইমলাইন
+Timeline Name,টাইমলাইন-এর নাম
+Timeout,টাইমআউট
+Title,পদ
+To Date,শেষের তারিখ
+Today,আজকে
+Toggle Theme,থিম পরিবর্তন
+Top,উপরে
+Top Center,উপরে মাঝে
+Top Left,শীর্ষ বাম
+Top Right,ওপরে ডানে
+Total,মোট
+Total Users,মোট ব্যবহারকারীগণ
+Total rows,মোট সারিসমূহ
+Translation,অনুবাদ
+Translations,অনুবাদসমূহ
+Transparent,স্বচ্ছ
+Trash,আবর্জনা
+Tree,ট্রি
+Trigger,ট্রিগার
+Trigger Type,ট্রিগার-এর ধরন
+Try Again,পুনরায় চেষ্টা
+Tuesday,মঙ্গলবার
+Type,ধরন
+Type Name,ধরন-এর নাম
+Type:,ধরন:
+Typography,টাইপোগ্রাফি
+URL,URL
+Underline,নিম্নরেখাঙ্কিত
+Undo,পূর্বাবস্থা
+Undo last action,সর্বশেষ কাজটি পূর্বাবস্থা করুন
+Unknown,অজানা
+Unpin,পিন করা হবে না
+Unread,অপঠিত
+Unselect All,সব নির্বাচন বাতিল করো
+Unsubscribe,আনসাবস্ক্রাইব
+Update,হালনাগাদ করুন
+Update Settings,হালনাগাদ করুন সেটিংস
+Updated,আপডেট করা হয়েছে
+Updated successfully,সফলভাবে হালনাগাদ করা হয়েছে
+Updating,আপডেট করা হচ্ছে
+Upload,হ্যাঁ
+Upload Image,ছবি আপলোড করুন
+Upload Photo,ছবি আপলোড করুন
+Used,ব্যবহৃত
+User,ব্যবহারকারী
+User Details,ব্যবহারকারীর বিস্তারিত তথ্য
+User Group,ব্যবহারকারী গ্রুপ
+User ID,ব্যবহারকারীর ID
+User Id,ব্যবহারকারীর ID
+User Name,নাম
+User Type,ব্যবহারকারী-এর ধরন
+Username,ব্যবহারকারী নাম
+Users,ব্যবহারকারীগণ
+Value,মান
+Verified,যাচাইকৃত
+Version,সংস্করণ
+Version name,সংস্করণ-এর নাম
+Versions,ভার্সনসমূহ
+Vertical,উল্লম্ব
+Video,ভিডিও
+Video URL,ভিডিও লিংক
+View,প্রদর্শন
+View Details,প্রদর্শন-এর বিস্তারিত
+View List,প্রদর্শন তালিকা
+View Settings,প্রদর্শন সেটিংস
+Views,প্রদর্শন বিন্যাস
+Virtual,ভার্চুয়াল
+Visibility,দৃষ্টিগ্রাহ্যতা
+Visible,দৃশ্যমান
+Waiting,অপেক্ষারত
+Warehouse,গুদাম / ওয়্যারহাউস
+Warning,সতর্কবার্তা
+Weak,দুর্বল
+Website,ওয়েবসাইট
+Website Settings,ওয়েবসাইট সেটিংস
+Website User,ওয়েবসাইট ব্যবহারকারী
+Wednesday,বুধবার
+Weight,ওজন
+Width,প্রস্থ
+Workflow,ওয়ার্কফ্লো
+Workflow Action,ওয়ার্কফ্লো অ্যাকশন
+Workflow Action Name,ওয়ার্কফ্লো অ্যাকশন-এর নাম
+Workflow Details,ওয়ার্কফ্লো-এর বিস্তারিত
+Workflow Name,ওয়ার্কফ্লো-এর নাম
+Workflow State,ওয়ার্কফ্লো অবস্থা
+Workflow Status,ওয়ার্কফ্লো-এর অবস্থা
+Workspace,ওয়ার্কস্পেস
+Workspaces,ওয়ার্কস্পেসসমূহ
+Write,লেখা
+Year,বছর
+Yellow,হলুদ
+Yes,হ্যাঁ
+Yesterday,গতকাল
+You are not permitted to access this resource,আপনার এই তথ্যে প্রবেশের অনুমতি নেই
+Zero,শুন্য
+Zoom,বড় করে দেখা
+Zoom in,প্রসারিত করো
+Zoom out,ছোট করুন
+and,and
+ascending,আরোহী
+auto,auto
+blue,নীল
+calendar,বর্ষপঞ্জি
+cancel,বাতিল করুন
+canceled,বাতিলকৃত
+card,কার্ড
+chart,ছক
+create,তৈরি করুন
+d,D
+dashboard,ড্যাশবোর্ড
+default,ডিফল্ট মান
+delete,মুছুন
+descending,অবরোহী
+email,ইমেল
+empty,ফাঁকা
+export,রপ্তানি (Export)
+failed,অনুত্তীর্ণ
+finished,সমাপ্ত
+gray,ধূসর
+green,সবুজ
+h,H
+icon,আইকন
+import,আমদানি (Import)
+is disabled,নিষ্ক্রিয় কিনা
+is enabled,সক্রিয় কিনা
+label,লেবেল
+new,নতুন
+none,শূণ্য
+now,এখন
+number card,নম্বর কার্ড
+orange,কমলা
+print,প্রিন্ট করুন
+purple,পার্পল
+quick list,দ্রুত তালিকা
+read,পড়া
+red,লাল
+report,প্রতিবেদন
+row,সারি
+rows,সারিসমূহ
+s,S
+select,নির্বাচন
+share,share
+short,সংক্ষিপ্ত
+shortcut,শর্ট-কাট
+started,আরম্ভ করা হয়েছে
+submit,জমা দিন
+title,পদ
+value,মান
+widget,উইজেট
+write,লেখা
+yellow,হলুদ
+yesterday,গতকাল
