@@ -106,7 +106,9 @@ frappe.ui.misc.about = function () {
 					${render_app_icon(app_name, app)}
 					<div class="about-app-info flex-1 min-w-0">
 						<div class="about-app-name text-base-semibold text-ink-gray-8">${__(app.title)}</div>
-						<div class="about-app-version text-sm text-ink-gray-5">${app.title || app_name} v${version_text}</div>
+						<div class="about-app-version text-sm text-ink-gray-5">${
+							app.title || app_name
+						} v${version_text}</div>
 					</div>
 				</div>`).appendTo($wrap);
 		}
